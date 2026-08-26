@@ -1,0 +1,4 @@
+# Previa para aprovacao da cliente, nao e o site oficial.
+# Bloqueia buscadores para a previa nao concorrer com o dominio definitivo.
+User-agent: *
+Disallow: /
